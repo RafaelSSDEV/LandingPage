@@ -55,7 +55,7 @@ a {
 }
 
 .main-bg {
-    background-image: url('../Main_bg.svg');
+    background-image: url('Main_bg.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white);
